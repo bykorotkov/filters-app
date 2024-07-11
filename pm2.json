@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "FSK",
+      "script": "npm",
+      "args": "start"
+    }
+  ]
+}
